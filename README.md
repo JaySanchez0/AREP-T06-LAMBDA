@@ -28,3 +28,26 @@ Creamos una prueba
 Ejecutamos la prueba
 
 ![ver](img/ejecutamos%20la%20prueba.PNG)
+
+
+Creamos un api gateway
+
+![ver](img/crear%20api%20gateway%7D.PNG)
+
+Creamos un metodo de consulta
+
+![ver](img/get%20pagos.PNG)
+
+Probamos
+
+![ver](img/resultado%20prueba%202.PNG)
+
+Habilitamos CORS para podernos comunicar con el front end
+
+![ver](img/cors.PNG)
+
+Desplegamos el API
+
+![ver](img/url%20deploy.PNG)
+
+![ver](img/deploy%20final.PNG)
